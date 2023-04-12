@@ -5,5 +5,3 @@
 <p>
   screenshots will be added soon
 </p>
-
-___
